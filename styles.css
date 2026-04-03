@@ -1,8 +1,11 @@
-/*
+.svo-subj {
+	text-decoration: underline line-through;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+.svo-pred {
+	text-decoration: underline;
+}
 
-If your plugin does not need CSS, delete this file.
-
-*/
+.svo-obj {
+	text-decoration: underline wavy;
+}
