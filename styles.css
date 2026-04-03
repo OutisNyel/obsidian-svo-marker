@@ -1,0 +1,11 @@
+.svo-subj {
+	text-decoration: underline line-through;
+}
+
+.svo-pred {
+	text-decoration: underline;
+}
+
+.svo-obj {
+	text-decoration: underline wavy;
+}
